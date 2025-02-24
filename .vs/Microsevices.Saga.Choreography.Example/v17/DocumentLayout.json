@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A40E2E-821C-44FD-91FF-D48EE07B092F}|Order.API\\Order.API.csproj|c:\\users\\pc\\desktop\\microsevices.saga.choreography.example\\order.api\\consumers\\paymentfailedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A40E2E-821C-44FD-91FF-D48EE07B092F}|Order.API\\Order.API.csproj|solutionrelative:order.api\\consumers\\paymentfailedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A40E2E-821C-44FD-91FF-D48EE07B092F}|Order.API\\Order.API.csproj|c:\\users\\pc\\desktop\\microsevices.saga.choreography.example\\order.api\\consumers\\paymentcompletedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A40E2E-821C-44FD-91FF-D48EE07B092F}|Order.API\\Order.API.csproj|solutionrelative:order.api\\consumers\\paymentcompletedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9DEA80-7967-4F6F-A90E-992EE5A869E7}|Shared\\Shared.csproj|c:\\users\\pc\\desktop\\microsevices.saga.choreography.example\\shared\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9DEA80-7967-4F6F-A90E-992EE5A869E7}|Shared\\Shared.csproj|solutionrelative:shared\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentFailedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\Order.API\\Consumers\\PaymentFailedEventConsumer.cs",
+              "RelativeDocumentMoniker": "Order.API\\Consumers\\PaymentFailedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\Order.API\\Consumers\\PaymentFailedEventConsumer.cs",
+              "RelativeToolTip": "Order.API\\Consumers\\PaymentFailedEventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:35:31.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentCompletedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\Order.API\\Consumers\\PaymentCompletedEventConsumer.cs",
+              "RelativeDocumentMoniker": "Order.API\\Consumers\\PaymentCompletedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\Order.API\\Consumers\\PaymentCompletedEventConsumer.cs",
+              "RelativeToolTip": "Order.API\\Consumers\\PaymentCompletedEventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:23:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\Shared\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "Shared\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Microsevices.Saga.Choreography.Example\\Shared\\RabbitMQSettings.cs",
+              "RelativeToolTip": "Shared\\RabbitMQSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:48:01.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
